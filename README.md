@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Full-stack Web developer from Germany</h3>
 
 - 🌱 I’m currently learning more **JavaScript**
-- 🎬 Before I was working in Film Business doing documentaries
+- 🎬 Before I worked as an executive producer for international documentaries  
 
 I'am just fresh to the professional tech world 🐣! March 2023 I graduated from LeWagon Web Development Boot-camp and now I am looking forward to my second career and life-long learning.
 </p>
