@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A passionate Full-stack Web developer from Germany</h3>
+<h1 align="left">Hi 👋, I'm Florian</h1>
+<h3 align="left">A passionate Full-stack Web developer from Germany</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I'am just fresh to the professional tech world 🐣! March 2023 I graduated from LeWagon Web Development Boot-camp and now I am looking forward to my second career and life-long learning.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
