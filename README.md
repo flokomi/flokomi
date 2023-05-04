@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Florian</h1>
+<h1 align="left">Hi 👋 I'm Florian</h1>
 <h3 align="left">A passionate Full-stack Web developer from Germany</h3>
 
 - 🌱 I’m currently learning more **JavaScript and Frontend Development**
